@@ -125,6 +125,7 @@ function App() {
             <Clock
               country={country}
               result={result}
+              seconds={seconds}
               // ampm={ampm}
             />
           </Route>
